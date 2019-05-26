@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558894795994.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3570929338",
+    "id" : "5180D072",
+    "lastKnownWriteTime" : 1558895746,
+    "last_content_update" : 1558895746110,
+    "path" : "C:/Users/hzhou21/Desktop/Hui Zhou/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "67,13",
+        "scrollLine" : "41"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
