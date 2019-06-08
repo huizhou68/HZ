@@ -3,7 +3,7 @@ date: "2019-06-08T21:48:51-07:00"
 title: Teaching Experiences
 ---
 
-As a Teaching Assistant, I have been working with Professor. Ling Zhu in several courses. Including:
+As a Teaching Assistant, I have been working with Professor Ling Zhu in several courses, including:
 
 * PUBL 6313, Fundamentals of Policy Analysis (Spring 2019 and Spring 2018)
 
