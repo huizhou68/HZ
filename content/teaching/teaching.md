@@ -15,7 +15,7 @@ As a Teaching Assistant, I have been working with Professor Ling Zhu on several 
 
 In addition, I also assisted Professors Casellas, Murray, and Konak with the _Introduction to American Government_ class and Professor Allison M. N. Archer with the _Media and Politics_ class.
 
-* POLS 6350, Media and Politics 
+* POLS 6350, Media and Politics (Fall 2019)
 
 * POLS 1337, U.S. Congress, Presidency, and the Courts (Spring 2019), TA for Dr. Saadet Unal Konak
 
