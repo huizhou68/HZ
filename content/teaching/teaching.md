@@ -1,9 +1,11 @@
 ---
-date: "2019-06-08T21:48:51-07:00"
-title: Teaching Experiences
+date: "2019-12-31T22:45:51-48:51"
+title: Teaching Experience
 ---
 
-As a Teaching Assistant, I have been working with Professor Ling Zhu in several courses, including:
+As a Teaching Assistant, I have been working with Professor Ling Zhu on several courses, including:
+
+* POLS 6482, Advanced Multivariate Statistics (Fall 2019)
 
 * PUBL 6313, Fundamentals of Policy Analysis (Spring 2019 and Spring 2018)
 
@@ -11,7 +13,9 @@ As a Teaching Assistant, I have been working with Professor Ling Zhu in several 
 
 * POLS 3313, Statistics for Political Scientists (Fall 2018)
 
-In addition, I also assisted Professors Casellas, Murray, and Konak with the Introduction to American Government class.
+In addition, I also assisted Professors Casellas, Murray, and Konak with the _Introduction to American Government_ class and Professor Allison M. N. Archer with the _Media and Politics_ class.
+
+* POLS 6350, Media and Politics 
 
 * POLS 1337, U.S. Congress, Presidency, and the Courts (Spring 2019), TA for Dr. Saadet Unal Konak
 
