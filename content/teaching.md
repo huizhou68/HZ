@@ -1,5 +1,5 @@
 ---
-date: "2019-12-31T22:45:51-48:51"
+date: "2019-12-31T22:45:51-07:00"
 title: Teaching Experience
 ---
 
