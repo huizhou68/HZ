@@ -3,24 +3,22 @@ date: "2019-12-31T21:48:51-07:00"
 title: Teaching Experience
 ---
 
-As a Teaching Assistant, I have been working with Professor Ling Zhu on several courses, including:
+As a Teaching Assistant, I have worked with quite a few professors in the department. Below are a list of courses that I have assisted with.
 
-* POLS 6482, Advanced Multivariate Statistics (Fall 2019)
+* Spring 2021, POLS 6317 Inequality and Redistribution, Dr. Ling Zhu
+* Spring 2021, Spring 2019 and Spring 2018, PUBL 6313 Fundamentals of Policy Analysis, Dr. Ling Zhu
+* Spring 2021, POLS 3313 Introduction to International Relations, Dr. Zachary Zwald
+* Fall 2020 and Spring 2020, POLS 3317 American and Texas Government II and POLS 3319 Politics of Social Policy, Dr. Boris Shor
+* Fall 2019, POLS 6482 Advanced Multivariate Statistics, Dr. Ling Zhu
+* Fall 2019, POLS 6350 Media and Politics, Dr. Allison M. N. Archer
+* Spring 2019, POLS 1337 U.S. Congress, Presidency, and the Courts, Dr. Saadet Unal Konak
+* Spring 2019, POLS 1336 American and Texas Government, TA for Dr. Saadet Unal Konak
+* Fall 2018 and Fall 2017, PUBL 6312 Public Finance, Dr. Ling Zhu
+* Fall 2018, POLS 3313 Statistics for Political Scientists, Dr. Ling Zhu
+* Fall 2018, POLS 1336 American and Texas Government II, TA for Dr. Richard W. Murray
+* Fall 2017, POLS 1336 American and Texas Government II, TA for Dr. Jason P. Casellas
 
-* PUBL 6313, Fundamentals of Policy Analysis (Spring 2019 and Spring 2018)
+I was occasionally invited by colleagues to lecture.
 
-* PUBL 6312, Public Finance (Fall 2018 and Fall 2017)
-
-* POLS 3313, Statistics for Political Scientists (Fall 2018)
-
-In addition, I also assisted Professors Casellas, Murray, and Konak with the _Introduction to American Government_ class and Professor Allison M. N. Archer with the _Media and Politics_ class.
-
-* POLS 6350, Media and Politics (Fall 2019), TA for Dr. Allison M. N. Archer
-
-* POLS 1337, U.S. Congress, Presidency, and the Courts (Spring 2019), TA for Dr. Saadet Unal Konak
-
-* POLS 1336, American and Texas Government (Spring 2019), TA for Dr. Saadet Unal Konak
-
-* POLS 1336, American and Texas Government II (Fall 2018), TA for Dr. Richard W. Murray
-
-* POLS 1336, American and Texas Government II (Fall 2017), TA for Dr. Jason P. Casellas
+* Introduction to Politics in China (Dr. Yuyang Pu), October 22, 2020
+* Introduction to Public Policy (Dr. Scott Hofer), June 3, 2019
