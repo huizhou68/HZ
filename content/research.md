@@ -1,12 +1,27 @@
 ---
-date: "2019-12-31T21:48:51-07:00"
+date: "2021-05-25T21:48:51-07:00"
 title: Research Projects
 ---
 
-In collaboration with Professor Ling Zhu, I have completed a book chapter on China's social policy. Edited by Professor Morgen Johansen, the book is titled _Social Equity in the Asian-Pacific Region: Conceptualizations and Realities_ and it was published in May, 2019. This book chapter offers a detailed overview of the evolvement of social equity across three major policy areas, including healthcare, education, and social welfare.
+My research interests are twofold. First, I am interested in social policy from a comparative perspective. I pay particular attention to how governments devise social policies to improve the wellbeing of their people in the context of changing global dynamics. In this regard, I have coauthored a book chapter on China's social policy development in the areas of healthcare, education, and social welfare through the lens of social equity. Besides, I am working on a project that looks at the pension policy in major OECD countries. It shows that traditional welfare states may have to balance between inclusiveness and generosity due to income inequality and partisan politics.
 
-I have a forthcoming article at _Social Science and Medicine_. This study examines the relationship between hospital violence and protest outcome in China. It demonstrates that there is a rational motivation behind the widespread hospital violence in China. A higher level of violence, characterized by a larger number of protest participants and a longer protest, can make compensation more likely and once compensated, the amount of the compensation is higher. The link between violence and outcome has to do with the Chinese government, which tends to intervene in medical disputes when substantial violence is present, pressing hospitals to pacify protesters by making compensation.
+Second, I pay much attention to Chinese politics. Broadly speaking, I am concerned about whether/how the state, which is essentially authoritarian, can be checked and constrained by formal institutions and/or mass attitudes. My recent publication on China's administrative litigations shows that citizens and social organizations are at a disadvantage relative to the core state agents, in spite of an attempt to increase the autonomy of judiciary at the subnational level. My dissertation takes a different approach to accountability. I look at how the state holds its agents accountable for a variety of technological disasters such as explosions, gas leaks and transportation accidents. 
 
-I am working on other projects as well. My qualifying paper is focused on the determinants of pension policy design in advanced democracies, with a particular focus on the configuration of program coverage and welfare generosity. My study reveals that the trade-off between generosity and inclusiveness is influenced by income inequality and partisan politics. Income inequality is associated with a higher replacement rate, especially when the left party is in power. Multinomial regressions show that income inequality and legislative fractionalization result in welfare expansion separately, but they collectively make welfare expansion less likely and welfare retrenchment more likely. This paper is currently under review.
+Below are the abstracts of my published research, as well as some projects in progress.
 
-In addition, I am collaborating with Professor Ling Zhu to investigate how policy stance affects political behaviors among ethnic minorities in the United States. I am also engaged in a comparative study of social policy change across OECD countries (with Professors Scott Hofer and Ling Zhu).
+Peer-reviewed Journal Articles
+
++ Zhou, Hui, Junqiang Liu, Jiang He, and Jianxin Cheng. 2021. “[**Conditional Justice: Evaluating the Judicial Centralization Reform in China.**](/2021_Conditional_Justice.pdf)” *Journal of Contemporary China* 30(129): 434–450.
++ Liang, Fengbo, Junqiang Liu, Hui Zhou, Paicheng Liu. 2021. “[**Inequality in the Last Resort: How Medical Appraisal Affects Malpractice Litigations in China.**](/2021_Inequality_in_the_last_resort.pdf)” *International Journal of Legal Medicine* 135(3):1047–1054.
++ Liu, Junqiang, Hui Zhou, Lingrui Liu, and Chunxiao Wang. 2020. “[**The Weakness of the Strong: Examining the Squeaky-Wheel Effect of Hospital Violence in China.**](/2020_Hospital_Violence.pdf)” *Social Science and Medicine* 245:112717. (corresponding author)
+
+Book Chapters
+
+* Zhou, Hui and Ling Zhu. 2019. “[**‘Two Chinas’: Social Equity, Social Policies, and the Urban-rural Divide in China.**](https://doi.org/10.1007/978-3-030-15919-1_7)” In Johansen M. (Eds) *Social Equity in the Asia-Pacific Region: Conceptualizations and Realities* (pp. 109–136). Palgrave Macmillan, Cham.
+
+Working Paper
+
++ “Can Authoritarian Government Be Held Accountable? Evidence from Crisis Management in China”
++ “Whom to Blame and How? Responsibility Attribution in Cases of Technological Disasters”
++ “Fiscal Constraints, Globalization and Domestic Institutions: The Political Economy and Social Policy in OECD Countries” (with Scott Hofer and Ling Zhu)
++ “Income Inequality, Partisan Politics, and Coverage-generosity Trade-off: Examining the Pension Policymaking in Developed Industrial Democracies (1971-2010)”
