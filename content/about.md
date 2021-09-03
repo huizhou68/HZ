@@ -7,4 +7,4 @@ I am a Ph.D. candidate in the Department of Political Science at the University 
 
 For more details about my background and research, please click [**here**](/HZ_CV2021.pdf) to view my CV.
 
-<img class="special-img-class" src="/Other.jpg" />
+<img class="special-img-class" src="/image/Other.jpg" />
