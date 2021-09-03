@@ -7,4 +7,3 @@ I am a Ph.D. candidate in the Department of Political Science at the University 
 
 For more details about my background and research, please click [**here**](/HZ_CV2021.pdf) to view my CV.
 
-{{< figure float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/Other.jpg" >}}
