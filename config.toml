@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "Hui Zhou"
     role = "Professor of Artificial Intelligence"
     organizations = [ { name = "Stanford University", url = "" } ]
-    description = "Ph.D. Student, University of Houston"
+    description = "Ph.D. Candidate, University of Houston"
     gravatar = false  # Get your avatar from Gravatar.com? (true/false)
     #avatar = "Hui-Zhou.jpg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
     logo = "Headshot_Circle.png"
@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     accent = "#386890" # dark colors do best
     backgroundColor = "#f5f5f5"
     font = "Ovo" # should match the name on Google Fonts! (default is Mina) options: Lateef, Ovo
-    fontsize = 2
+    #fontsize = 2
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
