@@ -3,7 +3,7 @@
 <main class = "content-box">
 <style>
    .box{
-    border:1px solid rgba(233,156,76,0.9); /*width:800px;*/
+    border:1px solid rgba(233,156,76,0.9); /*width:800px; {{ .Site.Params.description }}*/
     font-size: 16px;
     line-height: 23px;
     text-align: justify;
@@ -14,10 +14,6 @@
    }
 </style>
 
-<style type="text/css">
-p.italic {font-style:italic}
-</style>
-
     <div class="intro">
 
         <div style = "margin-top: 20px;">
@@ -25,7 +21,7 @@ p.italic {font-style:italic}
         </div>
 
         <div style = "margin-top: 30px" class="box">
-            <img class="img-responsive" src="{{ .Site.BaseURL }}img/{{ .Site.Params.logo }}" alt="Whoopsies, this is my bad side!" style = "margin: 10px; width:22%"> {{ .Site.Params.description }}
+            <img class="img-responsive" src="{{ .Site.BaseURL }}img/{{ .Site.Params.logo }}" alt="Whoopsies, this is my bad side!" style = "margin: 10px; width:22%"> I am a <i>Ph.D. Candidate</i> in the Department of Political Science at the University of Houston, expecting graduation in the May of 2022. My research fields include public policy and comparative politics. I am interested in how political institutions and economic factors shape bureaucratic accountability, government responsiveness, and policy outcomes in authoritarian contexts, with a particular focus on China. Besides, I am also interested in statistical methods related to big data such as text analysis and automated data collection. My studies have occurred at Journal of Contemporary China, Social Science and Medicine and International Journal of Legal Medicine. In addition, I coauthored a book chapter on China’s social policy and social equity.
         </div>
         
         <div style = "margin-top: 20px" class="box">
