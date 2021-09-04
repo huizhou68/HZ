@@ -38,7 +38,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [[menu.main]]
     url = "/HZ_CV2021.pdf"
-    name = "About"
+    name = "CV"
     weight = 2
 
 [[menu.main]]
