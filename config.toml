@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hui Zhou"
+title = "WELCOME TO MY SITE!"
 description = "Welcome to Hui's personal website!"
 theme = "min_night"
 disqusShortname = ""
@@ -11,7 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     post = "/:year/:month/:day/:slug/"
 
 [params]
-    name = "WELCOME TO MY SITE!"
+    name = "Hui Zhou"
     role = "Professor of Artificial Intelligence"
     organizations = [ { name = "Stanford University", url = "" } ]
     description = "My name is Hui Zhou. I am a Ph.D. Candidate in the Department of Political Science at the University of Houston."
