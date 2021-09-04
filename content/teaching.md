@@ -5,7 +5,7 @@ title: Teaching Experience
 
 Starting this semester (Fall 2021), I am teaching _POLS 3316 Statistics for Political Scientists_, an intro-level methods class for undergraduates. This course introduces students to basic statistical theories and concepts as well as the R language. [[Syllabus](/POLS3316Syllabus.pdf)]
 
-In addition to intro-level statistics, I am also interested in teaching more aadvanced methods for graduate students. In this era of data explosion, learning some big data techniques can be extremely helpful. I can teach graduate students on topics including web-scraping, regular expressions, topic models, machine learning, etc.
+In addition to intro-level statistics, I am also interested in teaching more aadvanced methods for graduate students. In this era of data explosion, learning some big data techniques can be extremely helpful. I can teach graduate students on topics including web-scraping, regular expressions, topic models, machine learning, etc. Moreover, I can also teach courses related to comparative politics and Chinese politics.
 
 During my time in the graduate school, I have worked as a teaching assistant for many professors in the department. Below are a list of courses that I have assisted with.
 
