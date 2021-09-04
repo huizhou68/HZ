@@ -1,18 +1,25 @@
 {{ partial "header" . }}
 
 <main class = "content-box">
-<style> 
-.divcss5-a{ line-height:22px}/* css 注释说明：设置行距行高22px */ 
-.divcss5-b{ line-height:40px}/* 设置行距行高40px */ 
-</style> 
+<style>
+   .box{
+    width:600px;
+    border:1px solid rgba(233,156,76,0.9);
+    font-size: 15px;
+   }
+   .box img{
+    float: left;
+   }
+</style>
+
     <div class="Intro">
 
         <div class="avatar">
-            <img class="img-responsive" align = "left" src="{{ .Site.BaseURL }}img/{{ .Site.Params.logo }}" alt="Whoopsies, this is my bad side!" style = "margin: 0 auto; width:20%">
+            <img class="img-responsive" src="{{ .Site.BaseURL }}img/{{ .Site.Params.logo }}" alt="Whoopsies, this is my bad side!" style = "margin: 0 auto; width:20%">
         </div>
         
         
-        <div style = "margin-top: 1%" class=".divcss5-b">
+        <div style = "margin-top: 20%" class="box">
             <h4>{{ .Site.Params.description }}</h4>
         </div>
     </div>
