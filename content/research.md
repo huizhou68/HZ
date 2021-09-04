@@ -19,9 +19,14 @@ Book Chapters
 
 * Zhou, Hui and Ling Zhu. 2019. “[**‘Two Chinas’: Social Equity, Social Policies, and the Urban-rural Divide in China.**](https://doi.org/10.1007/978-3-030-15919-1_7)” In Johansen M. (Eds) *Social Equity in the Asia-Pacific Region: Conceptualizations and Realities* (pp. 109–136). Palgrave Macmillan, Cham.
 
-Work in Progress
+Working Papers
 
 + “Can Authoritarian Government Be Held Accountable? Evidence from Crisis Management in China”
-+ “Whom to Blame and How? Responsibility Attribution in Cases of Technological Disasters”
-+ “Fiscal Constraints, Globalization and Domestic Institutions: The Political Economy and Social Policy in OECD Countries” (with Scott Hofer and Ling Zhu)
++ “Outward Censorship in An Era of Globalization: Evidence from Government Websites”
 + “Income Inequality, Partisan Politics, and Coverage-generosity Trade-off: Examining the Pension Policymaking in Developed Industrial Democracies (1971-2010)”
+
+Work in Progress
+
+* “Whom to Blame and How? Responsibility Attribution in Cases of Technological Disasters”
+* “Opportune Protesting: How Chinese Patients Leverage Political Conferences in Medical Disputes”
+
