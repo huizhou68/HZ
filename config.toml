@@ -11,7 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     post = "/:year/:month/:day/:slug/"
 
 [params]
-    name = "Hui Zhou"
+    name = ""
     role = "Professor of Artificial Intelligence"
     organizations = [ { name = "Stanford University", url = "" } ]
     description = "Ph.D. Candidate, University of Houston"
