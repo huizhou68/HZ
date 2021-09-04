@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "Hui Zhou"
     role = "Professor of Artificial Intelligence"
     organizations = [ { name = "Stanford University", url = "" } ]
-    description = "Ph.D. Candidate, University of Houston"
+    description = "Ph.D. Student, University of Houston"
     gravatar = false  # Get your avatar from Gravatar.com? (true/false)
     #avatar = "Hui-Zhou.jpg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
     logo = "Headshot_Circle.png"
