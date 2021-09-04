@@ -61,12 +61,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/huizhou68"
+    url = "https://scholar.google.com/citations?user=yXGdSJgAAAAJ&hl=en&oi=sra"
     name = "fas fa-graduation-cap"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/hzhou21"
-    name = "fab fa-twitter"
+    url = "https://github.com/huizhou68"
+    name = "fab fa-github"
     weight = 3
   
