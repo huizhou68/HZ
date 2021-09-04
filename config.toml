@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Hui Zhou"
-description = "Welcome to Hui's personal website!"
+description = "Welcome to my personal website!"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -12,8 +12,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     name = "Hui Zhou"
-    role = "Professor of Artificial Intelligence"
-    organizations = [ { name = "Stanford University", url = "" } ]
+    role = "Ph.D. Candidate"
+    organizations = [ { name = "University of Houston", url = "" } ]
     description = "I am a Ph.D. Candidate in the Department of Political Science at the University of Houston, expecting graduation in the May of 2022. My research fields include public policy and comparative politics. I am interested in how political institutions and economic factors shape bureaucratic accountability, government responsiveness, and policy outcomes in authoritarian contexts, with a particular focus on China. Besides, I am also interested in statistical methods related to big data such as text analysis and automated data collection. My studies have occurred at Journal of Contemporary China, Social Science and Medicine and International Journal of Legal Medicine. In addition, I coauthored a book chapter on China's social policy and social equity."
     gravatar = false  # Get your avatar from Gravatar.com? (true/false)
     avatar = "HZ.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
