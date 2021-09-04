@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "Hui Zhou"
     role = "Professor of Artificial Intelligence"
     organizations = [ { name = "Stanford University", url = "" } ]
-    description = "My name is Hui Zhou. I am a Ph.D. Candidate in the Department of Political Science at the University of Houston."
+    description = "My name is Hui Zhou. I am a Ph.D. Candidate in the Department of Political Science at the University of Houston. I am a Ph.D. candidate in the Department of Political Science at the University of Houston. Before attending graduate school, I earned a B.A. in Economics (2014) and an M.A. in Management (2016) in China. I major in public policy and my minor is comparative politics. I am particularly interested in social policy and Chinese politics. My dissertation focuses on how authoritarian states like China deals with accountability in the absence of competitive elections and other democratic means."
     gravatar = false  # Get your avatar from Gravatar.com? (true/false)
     #avatar = "Hui-Zhou.jpg.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
     logo = "Headshot_Circle.png"
