@@ -62,7 +62,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [[menu.icon]]
     url = "https://scholar.google.com/citations?user=yXGdSJgAAAAJ&hl=en&oi=sra"
-    name = "fas fa-graduation-cap"
+    name = "fas fa-user-graduate"
     weight = 2
 
 [[menu.icon]]
