@@ -9,5 +9,6 @@ On this page, I would like to share some resources that might be helpful for res
 * **_pqview_**: This is a simple Web App developed in Shiny to facilitate my teaching. When I taught statistics and research design, a critical topic is critical values (quantiles), probabilities and p values  (significance level) in a continuous distribution such as a normal distribution or a Student's t distribution. The traditional way of covering this topic is to resort to some Z tables or T tables, but students usually get very frustrated with dense decimals in a table. In consequence, I created this Web App to visualize the relationship between quantiles and probabilities in a standard normal distribution. It permits both one-tailed and two-tailed scenarios. It is available below.
 
 <div style = "margin-top: 10px" class="box">
-            <iframe height="800" width="100" frameborder="no" src="https://huizhou68.shinyapps.io/pqview/"> </iframe>
+            <iframe height="1000" width="100%" frameborder="no" src="https://huizhou68.shinyapps.io/pqview/"> </iframe>
         </div>
+
