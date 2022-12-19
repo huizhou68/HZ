@@ -24,4 +24,3 @@ Work in Progress
 
 * “Who Is to Blame and How? Responsibility Attribution in Cases of Technological Disasters”
 * “A Study of Fiscal Accountability in China”
-
