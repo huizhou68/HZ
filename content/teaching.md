@@ -3,7 +3,7 @@ date: "2019-12-31T21:48:51-07:00"
 title: Teaching Experience
 ---
 
-In fall 2022, I taught *POLS 3312 Arguments, Data and Politics* at the University of Houston. This course intended to help students understand social science research and if possible, conduct their own research. It covers topics ranging from theory building to measurement, experimental research, and observational studies. [[Syllabus](POLS3312Syllabus.pdf)]
+In fall 2022, I taught *POLS 3312 Arguments, Data and Politics* at the University of Houston. This course is aimed at helping students understand social science research and if possible, conduct their own research. It covers topics ranging from theory building to measurement, experimental research, and observational studies. [[Syllabus](POLS3312Syllabus.pdf)]
 
 In fall 2021, I taught _POLS 3316 Statistics for Political Scientists_, an intro-level methods class for undergraduates. This course introduces students to basic statistical theories and concepts as well as the R language. [[Syllabus](POLS3316Syllabus.pdf) | [Teaching Evaluation](POLS3316Evaluation.pdf)]
 
