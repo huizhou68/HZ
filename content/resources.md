@@ -9,5 +9,5 @@ I am passionate about automation in my daily work. Here are some academic resour
 * **_pqview_**: This is a simple web app or dashboard developed with Shiny to facilitate teaching. When I taught statistics, a critical topic was probabilities and quantiles in a continuous distribution. The traditional way of covering this topic is to resort to some Z tables or T tables, but students usually get very frustrated with dense decimals in a table. Besides, 'static' tables cannot display all possible degrees of freedom, quantiles, and significance levels. For these reasons, I created this dashboard to visualize the relationship between quantiles and probabilities in four widely used continuous distributions: standard normal distribution, Student's t-distribution, F distribution, and  Chi-square distribution. This dashboard permits both one-tailed and two-tailed scenarios. It is available below, but users may access it on an independent page via this [**link**](https://huizhou68.shinyapps.io/pqview/).
 
 <div style = "margin-top: 20px" class="box">
-            <iframe height="800" width="100%" frameborder="no" src="https://huizhou68.shinyapps.io/pqview/"> </iframe>
-        </div>
+	<iframe height="800" width="100%" frameborder="no" src="https://huizhou68.shinyapps.io/pqview/"> </iframe>
+</div>
