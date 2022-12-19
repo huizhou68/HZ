@@ -9,7 +9,7 @@ In fall 2021, I taught _POLS 3316 Statistics for Political Scientists_, an intro
 
 In addition to intro-level statistics, I am also interested in teaching more advanced methods for graduate students. In this era of data explosion, learning some big data techniques can be extremely helpful. I can teach graduate students on topics including web-scraping, regular expressions, topic models, machine learning, etc. Moreover, I can also teach substantive courses related to public policy, comparative politics and Chinese politics.
 
-During my time in the graduate school, I have worked as a teaching assistant for many professors in the department. Below are a list of courses that I have assisted with.
+During my time in graduate school, I have worked as a teaching assistant for many professors in the department. Below are a list of courses that I have assisted with.
 
 * Spring 2022, POLS 6481 Research Design and Quantitative Methods II, Dr. Basinger
 * Spring 2022, Spring 2021, Spring 2019 and Spring 2018, PUBL 6313 Fundamentals of Policy Analysis, Dr. Ling Zhu
