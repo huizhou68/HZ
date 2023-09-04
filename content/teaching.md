@@ -3,9 +3,13 @@ date: "2019-12-31T21:48:51-07:00"
 title: Teaching Experience
 ---
 
-In fall 2022, I taught *POLS 3312 Arguments, Data and Politics* at the University of Houston. This course is aimed at helping students understand social science research and if possible, conduct their own research. It covers topics ranging from theory building to measurement, experimental research, and observational studies. [[Syllabus](/POLS3312Syllabus.pdf) | [Teaching Evaluation](/Fall2022POLS3312Evaluation.pdf)]
+In Summer 2023, I taught DACSS 601 Data Science Fundamentals for the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst. This is an entry-level data science course aimed at helping students get prepared for more advanced learning topics. In this course, I covered base R, Tidyverse, data visualization, Python basics, as well as R programming skills including functions, conditions and loops. Additionally, this course devoted several sections to the application of R programming in various contexts such as Shiny dashboard development and web scraping with rvest. [[Syllabus](/DACSS601Syllabus.pdf) | Teaching Evaluation]
 
-In fall 2021, I taught _POLS 3316 Statistics for Political Scientists_, an intro-level methods class for undergraduates. This course introduces students to basic statistical theories and concepts as well as the R language. [[Syllabus](/POLS3316Syllabus.pdf) | [Teaching Evaluation](/Fall2021POLS3316Evaluation.pdf)]
+In Spring 2023, I taught GOVT 2035 U.S. Government: Congress, President and Courts at the University of Houston. This course discusses fundamental political institutions in the United States, such as Congress, presidency, courts and bureaucracy. Additionally, it also covers some important policy topics, including criminal justice, economic policy and immigration. [[Syllabus](/GOVT2305Syllabus.pdf) | [Teaching Evaluation](/Spring2023GOVT2305Evaluation.pdf)]
+
+In Fall 2022, I taught *POLS 3312 Arguments, Data and Politics* at the University of Houston. This course is aimed at helping students understand social science research and if possible, conduct their own research. It covers topics ranging from theory building to measurement, experimental research, and observational studies. [[Syllabus](/POLS3312Syllabus.pdf) | [Teaching Evaluation](/Fall2022POLS3312Evaluation.pdf)]
+
+In Fall 2021, I taught _POLS 3316 Statistics for Political Scientists_, an intro-level methods class for undergraduates. This course introduces students to basic statistical theories and concepts as well as the R language. [[Syllabus](/POLS3316Syllabus.pdf) | [Teaching Evaluation](/Fall2021POLS3316Evaluation.pdf)]
 
 In addition to intro-level statistics, I am also interested in teaching more advanced methods for graduate students. In this era of data explosion, learning some big data techniques can be extremely helpful. I can teach graduate students on topics including web-scraping, regular expressions, topic models, machine learning, etc. Moreover, I can also teach substantive courses related to public policy, comparative politics and Chinese politics.
 
