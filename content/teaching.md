@@ -3,6 +3,8 @@ date: "2019-12-31T21:48:51-07:00"
 title: Teaching Experience
 ---
 
+In Fall 2023, I taught POLS 1510 Politics of the Developing World, an intro-level comparative politics course. It introduces students to a wide array of topics pertaining to developing countries with the aim of discovering political institutions and public policies that make a country a good society. [[Syllabus](/POLS1510Syllabus.pdf) | [Teaching Evaluation](/POLS1510Evaluation.pdf)]
+
 In Summer 2023, I taught DACSS 601 Data Science Fundamentals for the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst. This is an entry-level data science course aimed at helping students get prepared for more advanced learning topics. In this course, I covered base R, Tidyverse, data visualization, Python basics, as well as R programming skills including functions, conditions and loops. Additionally, this course devoted several sections to the application of R programming in various contexts such as Shiny dashboard development and web scraping with rvest. [[Syllabus](/DACSS601Syllabus.pdf) | [Teaching Evaluation](/Summer2023DACSS601Evaluation.pdf)]
 
 In Spring 2023, I taught GOVT 2035 U.S. Government: Congress, President and Courts at the University of Houston. This course discusses fundamental political institutions in the United States, such as Congress, presidency, courts and bureaucracy. Additionally, it also covers some important policy topics, including criminal justice, economic policy and immigration. [[Syllabus](/GOVT2305Syllabus.pdf) | [Teaching Evaluation](/Spring2023GOVT2305Evaluation.pdf)]
