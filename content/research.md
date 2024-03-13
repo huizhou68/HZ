@@ -3,11 +3,12 @@ date: "2019-12-31T21:48:51-07:00"
 title: Research Projects
 ---
 
-Peer-reviewed Journal Articles
+Peer-reviewed Journal Articles ($^*$ Corresponding Author)
 
-+ Zhou, Hui, Junqiang Liu, Jiang He, and Jianxin Cheng. 2021. “[**Conditional Justice: Evaluating the Judicial Centralization Reform in China.**](/2021_Conditional_Justice.pdf)” *Journal of Contemporary China* 30(129): 434–450.
-+ Liang, Fengbo, Junqiang Liu, Hui Zhou, Paicheng Liu. 2021. “[**Inequality in the Last Resort: How Medical Appraisal Affects Malpractice Litigations in China.**](/2021_Inequality_in_the_last_resort.pdf)” *International Journal of Legal Medicine* 135(3):1047–1054.
-+ Liu, Junqiang, Hui Zhou, Lingrui Liu, and Chunxiao Wang. 2020. “[**The Weakness of the Strong: Examining the Squeaky-Wheel Effect of Hospital Violence in China.**](/2020_Hospital_Violence.pdf)” *Social Science and Medicine* 245:112717. (corresponding author)
++ Yang, Jianchuang, Hui Zhou$^*$. 2024. “[**The Rhythm of Government: Attention in China's Central- and Provincial-Level Executive Meetings.**](/2024_Government_Attention.pdf)” *China Review* 24(1):83--114.
++ Zhou, Hui, Junqiang Liu$^*$, Jiang He, and Jianxin Cheng. 2021. “[**Conditional Justice: Evaluating the Judicial Centralization Reform in China.**](/2021_Conditional_Justice.pdf)” *Journal of Contemporary China* 30(129):434–450.
++ Liang, Fengbo, Junqiang Liu$^*$, Hui Zhou, Paicheng Liu. 2021. “[**Inequality in the Last Resort: How Medical Appraisal Affects Malpractice Litigations in China.**](/2021_Inequality_in_the_last_resort.pdf)” *International Journal of Legal Medicine* 135(3):1047–1054.
++ Liu, Junqiang, Hui Zhou$^*$, Lingrui Liu, and Chunxiao Wang. 2020. “[**The Weakness of the Strong: Examining the Squeaky-Wheel Effect of Hospital Violence in China.**](/2020_Hospital_Violence.pdf)” *Social Science and Medicine* 245:112717.
 
 Book Chapters
 
