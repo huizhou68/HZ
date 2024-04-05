@@ -16,10 +16,10 @@ Book Chapters
 
 Working Papers
 
-+ “The Politics of Disasters: How Decentralization Weakens Authoritarian Government Accountability” (under review)
-+ “How Disasters Affect Political Support: Experimental Evidence from an Air Crash Accident” (under review)
-+ “How Economic Globalization Advances Government Accountability: Evidence from Government Websites” (under review)
-+ “Income Inequality, Partisan Politics, and Coverage-generosity Trade-off: Examining the Pension Policymaking in Developed Industrial Democracies (1971–2010)” (under review)
++ “The Politics of Disasters: How Decentralization Weakens Authoritarian Government Accountability”
++ “[**How Disasters Affect Political Support: Experimental Evidence from an Air Crash Accident**](/Manuscript.pdf)” ([**Slides**](/Slides.pdf))
++ “How Economic Globalization Advances Government Accountability: Evidence from Government Websites”
++ “Income Inequality, Partisan Politics, and Coverage-generosity Trade-off: Examining the Pension Policymaking in Developed Industrial Democracies (1971–2010)”
 
 Work in Progress
 
