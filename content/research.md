@@ -24,4 +24,4 @@ Working Papers
 Work in Progress
 
 * “Who Is to Blame and How? Responsibility Attribution in Cases of Technological Disasters”
-* “From Profit-Sharing to Residual-Chasing: A Study of Grand Theft in an Era of Economic Slowdown”
+* “From Profit-Sharing to Residual-Chasing: A Study of Grand Theft in an Era of Economic Slowdown” [[Slides](/Slides.pdf)]
