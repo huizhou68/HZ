@@ -34,3 +34,7 @@ I was occasionally invited by colleagues to lecture.
 * Introduction to Politics in China (Dr. Yuyang Pu), October 22, 2020
 * Introduction to Public Policy (Dr. Scott Hofer), June 3, 2019
 
+Teaching demonstration at SIUE, 05/08/2024
+
+* [OLS Regression](/SIUE_Teaching_Demonstration.pdf)
+
