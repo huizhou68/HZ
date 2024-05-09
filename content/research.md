@@ -16,7 +16,6 @@ Book Chapters
 
 Working Papers
 
-+ “[**Outward Censorship in An Era of Globalization: Evidence from Government Websites**](/SIUE_Research_Presentation.pdf)”
 + “The Politics of Disasters: How Decentralization Weakens Authoritarian Government Accountability”
 + “How Disasters Affect Political Support: Experimental Evidence from an Air Crash Accident”
 + “How Economic Globalization Advances Government Accountability: Evidence from Government Websites”
