@@ -24,5 +24,5 @@ Working Papers
 Work in Progress
 
 * “Who Is to Blame and How? Responsibility Attribution in Cases of Technological Disasters”
-* “From Profit-Sharing to Residual-Chasing: A Study of Grand Theft in an Era of Economic Slowdown” [[Slides](/2025APSAEconomy.pdf)]
+* “From Profit-Sharing to Residual-Chasing: A Study of Grand Theft in an Era of Economic Slowdown” [[Slides](/2025APSAAudit.pdf)]
 * “Rules for Thee but Not for Me: Selective Privacy Enforcement in Chinese Court Judgments” [[Slides](/2025APSAPrivacy)]
