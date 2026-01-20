@@ -16,6 +16,13 @@ Book Chapters
 
 Working Papers
 
-+ “Rules for Thee but Not for Me: Selective Privacy Enforcement in Chinese Court Judgments”
 + “The Politics of Disasters: How Decentralization Weakens Authoritarian Government Accountability”
 + “How Disasters Affect Political Support: Experimental Evidence from an Air Crash Accident”
++ “How Economic Globalization Advances Government Accountability: Evidence from Government Websites”
++ “Income Inequality, Partisan Politics, and Coverage-generosity Trade-off: Examining the Pension Policymaking in Developed Industrial Democracies (1971–2010)”
+
+Work in Progress
+
+* “Who Is to Blame and How? Responsibility Attribution in Cases of Technological Disasters”
+* “From Profit-Sharing to Residual-Chasing: A Study of Grand Theft in an Era of Economic Slowdown”
+* “Rules for Thee but Not for Me: Selective Privacy Enforcement in Chinese Court Judgments”
