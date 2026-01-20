@@ -35,7 +35,10 @@ During my time in graduate school, I have worked as a teaching assistant for man
 * Fall 2018, POLS 1336 American and Texas Government II, Dr. Richard W. Murray
 * Fall 2017, POLS 1336 American and Texas Government II, Dr. Jason P. Casellas
 
-I was occasionally invited by colleagues to lecture.
+I was occasionally invited to lecture on various topics.
 
+* AI Governance In China (Prof. Dr. Genia Kostka), December 15, 2025
+* Elite Political Theory and Fragmented Authoritarianism (Prof. Dr. Genia Kostka), October 27, 2025
+* Introduction to Text Analysis (Prof. Dr. Genia Kostka), June 16, 2025
 * Introduction to Politics in China (Dr. Yuyang Pu), October 22, 2020
 * Introduction to Public Policy (Dr. Scott Hofer), June 3, 2019
